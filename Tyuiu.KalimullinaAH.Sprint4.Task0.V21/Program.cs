@@ -42,7 +42,7 @@ namespace Tyuiu.KalimullinaAH.Sprint4.Task0.V21
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.Write("Сумма всех чётных элеметов массива: " + ds.GetSumEvenArrEl(array));
+            Console.Write("Сумма всех чётных элеметов массива:" + ds.GetSumEvenArrEl(array));
            
             Console.ReadKey();
         }
