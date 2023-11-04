@@ -41,7 +41,7 @@ namespace Tyuiu.KalimullinaAH.Sprint4.Task2.V14
 
             for (int i = 0; i <= len - 1; i++)
             {
-                numArry[i] = rnd.Next(1,8);
+                numArry[i] = rnd.Next(1,9);
             }
 
             Console.WriteLine();
